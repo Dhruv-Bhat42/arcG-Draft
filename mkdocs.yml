@@ -1,0 +1,27 @@
+site_name: arc(G) Developer Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - User Guide: user_guide.md
+  - G_fusion_finder.g: fusion_finder.md
+  - G_irrep_finder.g: irrep_finder.md
+  - label_methods.g : label_methods.md
+  - ModifiedGS.g : modifiedGS.md
+  - main.g file: main.md
+  
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - admonition
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
