@@ -15,10 +15,10 @@ Using arc(G) user has the ability to:
 - You can download the latest version from the [releases tab](https://github.com/Dhruv-Bhat42/arcG-Draft/releases/tag/v1.0.0)
 
 ## User Guide (Installation and Running arc(G)
--Install GAP as per the instructions on the [official website](https://www.gap-system.org/install/)
--Open the GAP terminal and navigate to the folder where you have extracted the arcGv1.0.0.zip folder
--Run the command ``Read(main.g);`` in the terminal
--View all output data through .txt files
+- Install GAP as per the instructions on the [official website](https://www.gap-system.org/install/)
+- Open the GAP terminal and navigate to the folder where you have extracted the arcGv1.0.0.zip folder
+- Run the command ``Read(main.g);`` in the terminal
+- View all output data through .txt files
 
 Access the detailed user guide [here](https://dhruv-bhat42.github.io/arcG-Draft/user_guide/). 
 This contains information on the structure of all output data. 
