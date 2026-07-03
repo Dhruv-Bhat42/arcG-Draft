@@ -15,7 +15,7 @@ Using arc(G) user has the ability to:
 - You can download the latest version from the [releases tab](https://github.com/Dhruv-Bhat42/arcG-Draft/releases/tag/v1.0.0)
 
 ## User Guide (Installation and Running arc(G)
--Install [GAP as per the instructions here](https://www.gap-system.org/install/)
+-Install GAP as per the instructions on the [official website](https://www.gap-system.org/install/)
 -Open the GAP terminal and navigate to the folder where you have extracted the arcGv1.0.0.zip folder
 -Run the command ``Read(main.g);`` in the terminal
 -View all output data through .txt files
