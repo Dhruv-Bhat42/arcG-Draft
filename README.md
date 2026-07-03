@@ -12,15 +12,15 @@ Using arc(G) user has the ability to:
 
 ## Download the latest version of arcG 
 - Download the arcGv1.0.0.zip folder containing all GAP files that make up arcG 
-- You can download the latest version from the [releases tab] (https://github.com/Dhruv-Bhat42/arcG-Draft/releases/tag/v1.0.0)
+- You can download the latest version from the [releases tab](https://github.com/Dhruv-Bhat42/arcG-Draft/releases/tag/v1.0.0)
 
 ## User Guide (Installation and Running arc(G)
--Install [GAP as per the instructions here] (https://www.gap-system.org/install/)
+-Install [GAP as per the instructions here](https://www.gap-system.org/install/)
 -Open the GAP terminal and navigate to the folder where you have extracted the arcGv1.0.0.zip folder
 -Run the command ``Read(main.g);`` in the terminal
 -View all output data through .txt files
 
-Access the detailed user guide [here] (https://dhruv-bhat42.github.io/arcG-Draft/user_guide/). 
+Access the detailed user guide [here](https://dhruv-bhat42.github.io/arcG-Draft/user_guide/). 
 This contains information on the structure of all output data. 
 
 ## Sample Output
@@ -30,7 +30,7 @@ This contains information on the structure of all output data.
 
 ## Developer Documentation
 
-You can access a detailed [developer documentation] (https://dhruv-bhat42.github.io/arcG-Draft/) on arcG. This contains 
+You can access a detailed [developer documentation](https://dhruv-bhat42.github.io/arcG-Draft/) on arcG. This contains 
 - Documentation on every GAP file in arcG
 - Mathematical overview of every algorithm and GAP file
 
