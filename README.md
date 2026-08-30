@@ -1,4 +1,5 @@
 # arc(G): Associators for Representation Categories of finite Groups
+# Authors: D. Bhat & S. J. Valera
 
 arc(G) is a program written in GAP that computes the explicit unitary F matrices of Rep(G)- the category of representations of a finite group.
 arc(G) retains this functionality even when Rep(G) contains multiplicities. 
